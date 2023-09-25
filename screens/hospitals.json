@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Hospital A",
+    "province": "Gauteng",
+    "location": {
+      "latitude": -26.2708,
+      "longitude": 28.1123
+    }
+  },
+  {
+    "id": 2,
+    "name": "Hospital B",
+    "province": "Western Cape",
+    "location": {
+      "latitude": -33.9249,
+      "longitude": 18.4233
+    }
+  },
+  {
+    "id": 3,
+    "name": "Chris Hani Baragwanath Academic Hospita",
+    "province": "Gauteng",
+    "location": {
+      "latitude": -26.259960,
+      "longitude": 27.944183
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mantsopa Hospital",
+    "province": "Free State",
+    "location": {
+      "latitude": -29.192490,
+      "longitude": 27.455423
+    }
+  },
+  {
+    "id": 5,
+    "name": "Hillcrest Private Hospital",
+    "province": "KZN",
+    "location": {
+      "latitude": -29.789614,
+      "longitude": 30.741924
+    }
+  }
+]
